@@ -1,7 +1,7 @@
 export const SITE = {
   name: "Damian Dev Studio",
   role: "Independent web developer",
-  email: "dziminski79@gmail.com",
+  email: "damianziminski76@gmail.com",
   github: "https://github.com/dziminski79-sudo",
 } as const;
 
